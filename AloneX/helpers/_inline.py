@@ -198,7 +198,7 @@ class Inline:
                     self.ikb(text=lang["aloneowner"], user_id=config.OWNER_ID, style=ButtonStyle.DANGER),
                     self.ikb(
                         text=lang["source"],
-                        url=""\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x48\x41\x52\x52\x59\x41\x53\x48\x55"", style=ButtonStyle.DANGER
+                        url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x48\x41\x52\x52\x59\x41\x53\x48\x55", style=ButtonStyle.DANGER
                     )
                 ]
             ]
