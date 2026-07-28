@@ -5,14 +5,14 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙻𝙾𝙽𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗟𝗢𝗡𝗘)](https://github.com/TeamAloneOp)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙻𝙾𝙽𝙴+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗟𝗢𝗡𝗘)](https://github.com/SIDHIMUSIC)
 
 
 <b>Telegram Group Calls Streaming Bot</b><br>
 Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 
-<a href="https://github.com/TeamAloneOp/AloneX/stargazers">
-    <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneX?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
+<a href="https://github.com/SIDHIMUSIC/HARRY/stargazers">
+    <img src="https://img.shields.io/github/stars/SIDHIMUSIC/HARRY?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/>
 </a>
 <a href="https://github.com/TeamAloneOp/AloneX/network/members">
     <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneX?color=blueviolet&logo=github&logoColor=black&style=for-the-badge" alt="Forks"/>
@@ -30,7 +30,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 </p>
 
 
-**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝞚𝙡𝞸𝞰𝞮 ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­  ](https://t.me/AlonePvtBot)**
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝞚𝙡𝞸𝞰𝞮 ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­  ](https://t.me/HARRYASHU)**
 
 
 
@@ -65,7 +65,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/ForRealAlone)
+[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/SANATANI_BACCHA)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -119,10 +119,10 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AloneBotSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/HARRYASHU"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AloneUpdates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/HARRYASHU"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
