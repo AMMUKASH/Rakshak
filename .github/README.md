@@ -30,7 +30,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 </p>
 
 
-**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ 𝞚𝙡𝞸𝞰𝞮 ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­  ](https://t.me/HARRYASHU)**
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ ˹ᴛᴜᴋᴋɪ ꭙ Mᴜsɪᴄ˼ ♪[ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­  ](https://t.me/Nova_coder)**
 
 
 
@@ -60,7 +60,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/SIDHIMUSIC/Musicxxxxc)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/AMMUKASH/Rakshak/tree/patch-4)
 
 <h2 align="center">
 
