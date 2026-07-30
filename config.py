@@ -15,7 +15,7 @@ class Config:
         self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003960961858"))
         self.OWNER_ID = int(getenv("OWNER_ID", "8724182918"))
         
-        self.SESSION1 = getenv("SESSION", "AQJF8NUAPb1dU1cM3tKSams8orzjo35R_OZmHER-2_W3u_LMK_sE_4xw0pdlpnnhP7kctOeuEBnJe79NfyTZeMoH98ysWq93cw8GjrXQ5s2hlhB1ukUGHjQfvvHDQQgx36901jgub9vuFARqGJ2Z2L2DblnEW8E-YMj6s2icgECxLsLglgumc14P-mDDfa6Nq6EL3nZEJLGP-PZLm-TLkE4uy4MOoAPGaJdMlf8MzNaG-U3pckCmp_Hz8dykt_eXLvvDVd4yi3-kjGDJGxNenqLoLOIor-n8jTbRC54VJkP50aAYEgmQtEdTH_XJ4Wm8Tq8AnXTANnGF5dU_3O7FPU_GM3zkHgAAAAH33XYXAA")
+        self.SESSION1 = getenv("SESSION1", getenv("SESSION", "AQJF8NUAPb1dU1cM3tKSams8orzjo35R_OZmHER-2_W3u_LMK_sE_4xw0pdlpnnhP7kctOeuEBnJe79NfyTZeMoH98ysWq93cw8GjrXQ5s2hlhB1ukUGHjQfvvHDQQgx36901jgub9vuFARqGJ2Z2L2DblnEW8E-YMj6s2icgECxLsLglgumc14P-mDDfa6Nq6EL3nZEJLGP-PZLm-TLkE4uy4MOoAPGaJdMlf8MzNaG-U3pckCmp_Hz8dykt_eXLvvDVd4yi3-kjGDJGxNenqLoLOIor-n8jTbRC54VJkP50aAYEgmQtEdTH_XJ4Wm8Tq8AnXTANnGF5dU_3O7FPU_GM3zkHgAAAAH33XYXAA"))
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
@@ -35,7 +35,10 @@ class Config:
         ]
         self.DEFAULT_THUMB = getenv("DEFAULT_THUMB", "https://graph.org/file/11f30f6c28f84b225f241-f2cc62b7b1350d2603.jpg")
         self.PING_IMG = getenv("PING_IMG", "https://graph.org/file/3946d3c34cb555d30f033-fd126d42b07f4b512f.jpg")
+        
+        # Fixed: Added START_IMG_URL so plugins can fetch the image properly
         self.START_IMG = getenv("START_IMG", "https://graph.org/file/cef970290f42f10dce041-6163916620a47a86db.jpg")
+        self.START_IMG_URL = getenv("START_IMG_URL", self.START_IMG)
 
     def check(self):
         missing = [
