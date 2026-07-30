@@ -6,21 +6,21 @@ load_dotenv()
 
 class Config:
     def __init__(self):
-        self.API_ID = int(getenv("API_ID", "17596251"))
-        self.API_HASH = getenv("API_HASH", "e58343b4c0193e293e391daf97603fcd")
+        self.API_ID = int(getenv("API_ID", "38138069"))
+        self.API_HASH = getenv("API_HASH", "2ed313ebcc45cbcf65d1fc736ec71681")
 
-        self.BOT_TOKEN = getenv("BOT_TOKEN", "Apna Bot Token")
-        self.MONGO_URL = getenv("MONGO_URL", "Apna Mongo Db Dalo")
+        self.BOT_TOKEN = getenv("BOT_TOKEN", "8928629348:AAF48_FddTgNgkh2v79Crs81Wo25XaL1B38")
+        self.MONGO_URL = getenv("MONGO_URL", "mongodb+srv://misssqn_db_user:Nova01@cluster0.6xxsrwq.mongodb.net/?retryWrites=true&w=majority")
 
-        self.LOGGER_ID = int(getenv("LOGGER_ID", "Apna Log Group Id Dalo"))
-        self.OWNER_ID = int(getenv("OWNER_ID", "Owner I'd dalo"))
+        self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003960961858"))
+        self.OWNER_ID = int(getenv("OWNER_ID", "8724182918"))
         
-        self.SESSION1 = getenv("SESSION", "Apna String Dalo")
+        self.SESSION1 = getenv("SESSION", "AQJF8NUAPb1dU1cM3tKSams8orzjo35R_OZmHER-2_W3u_LMK_sE_4xw0pdlpnnhP7kctOeuEBnJe79NfyTZeMoH98ysWq93cw8GjrXQ5s2hlhB1ukUGHjQfvvHDQQgx36901jgub9vuFARqGJ2Z2L2DblnEW8E-YMj6s2icgECxLsLglgumc14P-mDDfa6Nq6EL3nZEJLGP-PZLm-TLkE4uy4MOoAPGaJdMlf8MzNaG-U3pckCmp_Hz8dykt_eXLvvDVd4yi3-kjGDJGxNenqLoLOIor-n8jTbRC54VJkP50aAYEgmQtEdTH_XJ4Wm8Tq8AnXTANnGF5dU_3O7FPU_GM3zkHgAAAAH33XYXAA")
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
         self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NovaBot_Support")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NovaBot_Support")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+BTg9b8Xw9lhkMWUx")
 
         self.AUTO_END: bool = getenv("AUTO_END", False)
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", False)
