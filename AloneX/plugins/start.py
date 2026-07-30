@@ -1,7 +1,7 @@
 # Copyright (c) 2025 TheHamkerAlone
 # Licensed under the MIT License.
 # This file is part of AloneXMusic
-#ALONE-CODER
+# ALONE-CODER
 
 import asyncio
 from pyrogram import enums, filters, types
@@ -37,12 +37,26 @@ async def start(_, message: types.Message):
     )
 
     key = buttons.start_key(message.lang, private)
-    await message.reply_photo(
-        photo=config.START_IMG,
-        caption=_text,
-        reply_markup=key,
-        quote=not private,
-    )
+    
+    # Check for photo URL safety
+    photo_url = getattr(config, "START_IMG_URL", None) or getattr(config, "START_IMG", None)
+
+    try:
+        await message.reply_photo(
+            photo=photo_url,
+            caption=_text,
+            parse_mode=enums.ParseMode.HTML,
+            reply_markup=key,
+            quote=not private,
+        )
+    except Exception:
+        # Fallback to text message if photo fails
+        await message.reply_text(
+            text=_text,
+            parse_mode=enums.ParseMode.HTML,
+            reply_markup=key,
+            quote=not private,
+        )
 
     if private:
         if await db.is_user(message.from_user.id):
