@@ -3,6 +3,7 @@
 # This file is part of AloneXMusic
 # ALONE-CODER
 # POWERED BY ALONE
+
 from pyrogram import enums, types
 from pyrogram.enums import ButtonStyle
 
@@ -72,7 +73,6 @@ class Inline:
                 ]
             )
         return self.ikm(keyboard)
-
 
     def help_markup(
         self, _lang: dict, back: bool = False
@@ -195,10 +195,10 @@ class Inline:
         if private:
             rows += [
                 [
-                    self.ikb(text=lang["aloneowner"], user_id=config.OWNER_ID, style=ButtonStyle.DANGER),
+                    self.ikb(text=lang["aloneowner"], url=config.SUPPORT_CHAT, style=ButtonStyle.DANGER),
                     self.ikb(
-                            text=lang["source"],
-                           url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x4E\x6F\x76\x61\x5F\x63\x6F\x64\x65\x72", style=ButtonStyle.DANGER
+                        text=lang["source"],
+                        url="https://t.me/Nova_coder", style=ButtonStyle.DANGER
                     )
                 ]
             ]
@@ -214,5 +214,4 @@ class Inline:
                     self.ikb(text="Youtube", url=link),
                 ],
             ]
-      )
-      
+        )
