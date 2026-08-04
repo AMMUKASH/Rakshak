@@ -61,6 +61,10 @@ class TgCall(PyTgCalls):
             await message.edit_text(_lang["error_no_file"].format(config.SUPPORT_CHAT))
             return await self.play_next(chat_id)
 
+        ff_params = "-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5"
+        if seek_time > 1:
+            ff_params += f" -ss {seek_time}"
+
         stream = types.MediaStream(
             media_path=media.file_path,
             audio_parameters=types.AudioQuality.HIGH,
@@ -71,7 +75,7 @@ class TgCall(PyTgCalls):
                 if media.video
                 else types.MediaStream.Flags.IGNORE
             ),
-            ffmpeg_parameters=f"-ss {seek_time}" if seek_time > 1 else None,
+            ffmpeg_parameters=ff_params,
         )
         try:
             await client.play(
@@ -184,7 +188,7 @@ class TgCall(PyTgCalls):
     async def boot(self) -> None:
         PyTgCallsSession.notice_displayed = True
         for ub in userbot.clients:
-            client = PyTgCalls(ub, cache_duration=100)
+            client = PyTgCalls(ub, cache_duration=86400)
             await client.start()
             self.clients.append(client)
             await self.decorators(client)
