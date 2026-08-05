@@ -1,11 +1,10 @@
-
 <h2 align="center">
     𖢵 𝙽𝙾𝚅𝙰 𝚇 𝙼𝚄𝚂𝙸𝙲 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙽𝙾𝚅𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐍𝐎𝐕𝐀)](https://github.com/SIDHIMUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙽𝙾𝚅𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐍𝐎𝚅𝐀)](https://github.com/SIDHIMUSIC)
 
 
 <b>Telegram Group Calls Streaming Bot</b><br>
@@ -26,7 +25,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 
 
 <p align="center">
-  <img src="https://litter.catbox.moe/v97ciy.jpg">
+  <img src="https://files.catbox.moe/vb3f7c.jpg">
 </p>
 
 
@@ -34,7 +33,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗡𝗢𝗩𝗔+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬⚠️">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗡𝗢𝗩𝗔+𝗥𝗘𝙿𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬⚠️">
 
 
 AloneXMusic lets you stream high-quality and low-latency audio and video playback into telegram group video chats.<br>
@@ -57,7 +56,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+<h3> 𝗛𝗘𝗥𝙾𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
 [![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new?template=https://github.com/AMMUKASH/Rakshak/tree/patch-4)
@@ -76,52 +75,39 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 1. **Upgrade & Update:**
    ```bash
    sudo apt-get update && sudo apt-get upgrade -y
-   ```
 
-2. **Install Required Packages:**
-   ```bash
+ * Install Required Packages:
    sudo apt-get install python3-pip ffmpeg -y
-   ```
-3. **Setting up PIP**
-   ```bash
+
+ * Setting up PIP
    sudo pip3 install -U pip
-   ```
-4. **Installing Node**
-   ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-   ```
-5. **Clone the Repository**
-   ```bash
-   git clone https://github.com/TeamAloneOp/AloneX && cd AloneX
-   ```
-6. **Install Requirements**
-   ```bash
+
+ * Installing Node
+   curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh) | bash && source ~/.bashrc && nvm install v18
+
+ * Clone the Repository
+   git clone [https://github.com/TeamAloneOp/AloneX](https://github.com/TeamAloneOp/AloneX) && cd AloneX
+
+ * Install Requirements
    pip3 install -U -r requirements.txt
-   ```
-7. **Installing tmux**
-    ```bash
-    sudo apt install tmux -y && tmux
-   ```
-8. **Editing Vars:**
-   ```bash
+
+ * Installing tmux
+   sudo apt install tmux -y && tmux
+
+ * Editing Vars:
    bash setup
-   ```
-9. **Run the Bot**
-    ```bash
-    bash start
-    ```
 
----
+ * Run the Bot
+   bash start
+
 ━━━━━━━━━━━━━━━━━━━━
-
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
-
 <p align="center">
 <a href="https://t.me/Nova_coder"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
 <p align="center">
 <a href="https://t.me/Nova_coder"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
