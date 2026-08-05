@@ -9,13 +9,13 @@ class Config:
         self.API_ID = int(getenv("API_ID", "38138069"))
         self.API_HASH = getenv("API_HASH", "2ed313ebcc45cbcf65d1fc736ec71681")
 
-        self.BOT_TOKEN = getenv("BOT_TOKEN", "8928629348:AAF48_FddTgNgkh2v79Crs81Wo25XaL1B38")
+        self.BOT_TOKEN = getenv("BOT_TOKEN", "8868866271:AAHz_eFiUHYNWhQ74SjHYUQDluJVSxEaO-E")
         self.MONGO_URL = getenv("MONGO_URL", "mongodb+srv://misssqn_db_user:Nova01@cluster0.6xxsrwq.mongodb.net/?retryWrites=true&w=majority")
 
-        self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003960961858"))
-        self.OWNER_ID = int(getenv("OWNER_ID", "8724182918"))
+        self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003992133346"))
+        self.OWNER_ID = int(getenv("OWNER_ID", "7101011030"))
         
-        self.SESSION1 = getenv("SESSION", "AQJF8NUAPb1dU1cM3tKSams8orzjo35R_OZmHER-2_W3u_LMK_sE_4xw0pdlpnnhP7kctOeuEBnJe79NfyTZeMoH98ysWq93cw8GjrXQ5s2hlhB1ukUGHjQfvvHDQQgx36901jgub9vuFARqGJ2Z2L2DblnEW8E-YMj6s2icgECxLsLglgumc14P-mDDfa6Nq6EL3nZEJLGP-PZLm-TLkE4uy4MOoAPGaJdMlf8MzNaG-U3pckCmp_Hz8dykt_eXLvvDVd4yi3-kjGDJGxNenqLoLOIor-n8jTbRC54VJkP50aAYEgmQtEdTH_XJ4Wm8Tq8AnXTANnGF5dU_3O7FPU_GM3zkHgAAAAH33XYXAA")
+        self.SESSION1 = getenv("SESSION", "BQJF8NUAnr0E82idxdt4RUQj5vXMoaAUJqKAUWWurPw_TVJfS1UAps0b9_Yhba7QDiCeSCbJUeVmJUO4AFdt0vz9ak3ybq_UtHbWXWwgLlqEgrlC5v1aHFtsTBWqlIx2CO24A82H7_f9-9tmL6edTpqtr2OluWnjRv-R1l8spjc8Tmi2WGImhL15X91hGsaaydqz1vFohoIBI9BdDmQKU-gUUo3-T3oi7kjD6PMyIRthriZKhnXiHnowldzT9SywhjX6J6Nr6DHttu4xswNlrERIJWK_KbJHzpJeOaVXSOUT96lamSP5ifdJ3wKzpUqdK6_80mQ8ETjFkDQRni5KHZ8_NfwLygAAAAG3UGCrAA")
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
