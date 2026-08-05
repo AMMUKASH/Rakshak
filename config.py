@@ -19,8 +19,8 @@ class Config:
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NovaBot_Support")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+BTg9b8Xw9lhkMWUx")
+        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/vrindawan62034")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+LGPEm34pKHg0Zjg5")
 
         self.AUTO_END: bool = getenv("AUTO_END", False)
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", False)
