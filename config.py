@@ -19,7 +19,7 @@ class Config:
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.UPDATE_CHANNEL = getenv("UPDATE_CHANNEL", "https://t.me/Apple_Music_Update")
+        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Apple_Music_Update")
         self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+C7gu3hgdX3ljNTZh")
 
         self.AUTO_END: bool = getenv("AUTO_END", False)
