@@ -104,7 +104,7 @@
     "queue_fetching": "Fetching queue...",
     "restarting": "Restarting...",
     "restarted": "Restart in progress. Don't worry, it'll only take a few seconds… maybe.",
-    "Start_pm":  "<blockquote><b>┆◍ ʜєʏ :- {0}</b>\n<b>┆◍ ɪ ᴧϻ :- {1}</b></blockquote>\n\n<blockquote><b>✦ ʏᴏᴜʀ ᴜʟᴛɪᴍᴀᴛᴇ ᴍᴜsɪᴄ ʙσᴛ ғᴏʀ ᴛєʟєɢʀᴧϻ.</b>\n<b>✦ ησ ʟᴧɢ • ησ ᴧᴅs • ᴘᴜʀє sσυɴᴅ.</b>\n<b>✦ 𝟸𝟺x𝟽 ɴᴏɴ-sᴛᴏᴘ ʜᴅ ᴍᴜsɪᴄ ᴘʟᴀʏʙᴧᴄᴋ.</b>\n<b>✦ ᴛᴧᴘ ʜєʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴄᴏᴍᴍᴧɴᴅs.</b></blockquote>\n\n<blockquote>┌────────────────────────•\n┆◍ ᴘᴏᴡєʀєᴅ ʙʏ :- <a href=\"https://t.me/NovaBot_Support\">˹ ɴᴏᴠᴀ ꭙ ꜱ𝛖ᴩᴩᴏʀᴛ ˼</a>\n└────────────────────────•</blockquote>",
+        "start_pm": "<b>ʜᴇʏ</b>  {0} \n\n<b>➻ ᴛʜɪs ɪs</b>  {1}\n\n<b>➻ ᴀ ғᴀsᴛ & ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.</b>\n\n<u><b>sᴜᴘᴘᴏʀᴛᴇᴅ ᴘʟᴀᴛғᴏʀᴍs :</b></u> <b>ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.</b>\n──────────────────────────\n\n<b>🎯 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.</b>\n\n┌────────────────────────•\n┆◍ ᴘᴏᴡєʀєᴅ ʙʏ :- <a href=\"https://t.me/NovaBot_Support\">˹ɴ𝛐𝛎𝛂 ꭙ ꜱ𝛖ᴩᴩᴏʀᴛ〠˼</a>\n└────────────────────────•",
     "start_gp": "Hey,\nThis is {0}\n\n<u><b>A music player bot with some awesome and useful features.</b></u>",
     "start_settings": "<u><b>{0} settings</b></u>\n\nClick the buttons below to change this chat's current settings.",
     "stats_fetching": "Fetching stats...",
