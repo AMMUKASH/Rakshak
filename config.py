@@ -12,15 +12,15 @@ class Config:
         self.BOT_TOKEN = getenv("BOT_TOKEN", "Apna Bot Token")
         self.MONGO_URL = getenv("MONGO_URL", "Apna Mongo Db Dalo")
 
-        self.LOGGER_ID = int(getenv("LOGGER_ID", "Apna Log Group Id Dalo"))
-        self.OWNER_ID = int(getenv("OWNER_ID", "Owner I'd dalo"))
+        self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003947649552"))
+        self.OWNER_ID = int(getenv("OWNER_ID", "8724182918"))
         
         self.SESSION1 = getenv("SESSION", "Apna String Dalo")
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NovaBot_Support")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NovaBot_Support")
+        self.UPDATE_CHANNEL = getenv("UPDATE_CHANNEL", "https://t.me/Apple_Music_Update")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+C7gu3hgdX3ljNTZh")
 
         self.AUTO_END: bool = getenv("AUTO_END", False)
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", False)
