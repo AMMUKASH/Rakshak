@@ -15,7 +15,7 @@ class Config:
         self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003992133346"))
         self.OWNER_ID = int(getenv("OWNER_ID", "7101011030"))
         
-        self.SESSION1 = getenv("SESSION", "BQJF8NUAnr0E82idxdt4RUQj5vXMoaAUJqKAUWWurPw_TVJfS1UAps0b9_Yhba7QDiCeSCbJUeVmJUO4AFdt0vz9ak3ybq_UtHbWXWwgLlqEgrlC5v1aHFtsTBWqlIx2CO24A82H7_f9-9tmL6edTpqtr2OluWnjRv-R1l8spjc8Tmi2WGImhL15X91hGsaaydqz1vFohoIBI9BdDmQKU-gUUo3-T3oi7kjD6PMyIRthriZKhnXiHnowldzT9SywhjX6J6Nr6DHttu4xswNlrERIJWK_KbJHzpJeOaVXSOUT96lamSP5ifdJ3wKzpUqdK6_80mQ8ETjFkDQRni5KHZ8_NfwLygAAAAG3UGCrAA")
+        self.SESSION1 = getenv("SESSION", "1AZWarzwBu1wL0jYWg3tCmgg2CNTZKCyMFWh1hHncjfxhjwRBWu1PcEYKCGqOqtdvMuek8__wXzX37g47TVYuJ3w6xiNkQ22DKtHnpDCvIVBAaH5jtN8Gqy3xP7MeoUrtAGx83jl1fbXZHV08zMEK-hG0MVnBPm-uASe-XanlvU61sP4JPT1yReNKwlaCY9SSE6fEMjq4AufaI1ffAnVAOzurAM_HzAyVdQ2_sjViROhbsReQ8PC4sHfO9jPfGSDJnQo5Xr6tjfaW6klpMw1ftt8CBP_zq9Pfpx-mDEOBptHFK_2Uf3r2UoP0mjxuz_VlBtY-QUEgmsATpIhnWDEO2_YUrE_Zi7M=")
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
