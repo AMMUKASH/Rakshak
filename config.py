@@ -13,7 +13,7 @@ class Config:
         self.MONGO_URL = getenv("MONGO_URL", "mongodb+srv://misssqn_db_user:Nova01@cluster0.6xxsrwq.mongodb.net/?retryWrites=true&w=majority")
 
         self.LOGGER_ID = int(getenv("LOGGER_ID", "-1003992133346"))
-        self.OWNER_ID = int(getenv("OWNER_ID", "7101011030"))
+        self.OWNER_ID = int(getenv("OWNER_ID", "7246397998"))
         
         self.SESSION1 = getenv("SESSION", "AQJF8NUAkWtGWYP-9NSJ1wit0PRw8IMkqUV28fIFwb-X18whsd6BZLrUNFH7eOYvEMSby3c5zbNcCLQvbzgbd_xgSr5GPzo8Xk6kMUkrIJGz1HcTkzmk_o7iS3MTlpymsF4FVpetf5N97xdS0Ba_Ax5QStcKeV2bzRQBbeuF3ChOxdl8sFz2w5w0gCliw4QvmH0ne972lIzCYR9z9SGKqNG-Mzp3rn2htb2WeFiIDPzEYh3V5f80OMsmIX-b8fo61uH4d7EqewMmFil_K-H3PKw-iZta9Ukn8zy34uvw9tdTEeA_1Xb5NXPIgqAdfERC2LvI9QyLNBAXilzKqdgxHpXQkvpFUwAAAAIQ3DPLAA")
         self.SESSION2 = getenv("SESSION2", None)
